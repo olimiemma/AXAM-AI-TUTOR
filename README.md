@@ -1,4 +1,4 @@
-# 🎓 AI Tutor for Grades 6-12(OFFLINE AS WELL)
+# 🎓 AI Tutor for Grades 6-12(OFFLINE CAPABLE)
 
 An intelligent tutoring system that uses both OpenAI GPT and Ollama's Llama models to provide comprehensive, age-appropriate explanations for science and algebra concepts. Designed specifically for middle and high school students (ages 11-18).
 
